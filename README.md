@@ -1,1 +1,0 @@
-# Gyenge-Mate-10C.github.io
