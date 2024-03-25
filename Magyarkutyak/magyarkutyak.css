@@ -1,0 +1,54 @@
+body{
+    width: 960px;
+    margin: 0 auto;
+    background-color: #d2691e;
+}
+.hasab {
+    max-width: 450px;
+    width: auto;
+}
+
+
+h1{
+    border-bottom: underline 2px #a52a2a;
+}
+ul li{
+    min-width: 50px; 
+    display: inline-block;
+    color: white;
+    list-style-type: none;
+    border-left: 2px solid #a52a2a;
+    border-right: 2px solid #a52a2a;
+}
+h2{
+    width: 96%;
+    background-color: #cd853f;
+    font-style: normal;
+    padding: 3px;
+    margin-right: 6px;
+}
+p{
+    text-align: justify;
+
+}
+.kep{
+    border: 2px solid #a52a2a;
+    width: 100px;
+    float: left;
+    margin-right: 6px;
+}
+footer{
+    max-width: 960px;
+    width: auto;
+    margin: 0 auto;
+    display: inline-block;
+    
+}
+#bal{
+    float: left;
+    width: 45%;
+}
+#right{
+    float: right;
+    width: 45%;
+}
