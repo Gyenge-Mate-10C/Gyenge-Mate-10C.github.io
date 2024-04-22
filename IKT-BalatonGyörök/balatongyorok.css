@@ -1,0 +1,81 @@
+body{
+    background-image: url(back.jpg);
+}
+#keret{
+    width: 1000px; height: 1000px;
+    margin: auto;
+}
+.header{
+    min-width: 650px;
+    max-width: 1000px;
+    margin: auto;
+    background-image: url(panorama.jpg);
+    background-repeat: repeat;
+    
+}
+.hatter{
+    margin: auto;
+    background-image: url("panorama.jpg");
+    background-color: #d0d0d0;
+    height: 180px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: inherit;
+  
+  
+  
+}
+.cimer{
+    float: right;
+    width: 120px;
+    padding-top: 20px;
+    padding-right: 20px;
+
+
+}
+h1{
+    float: left;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+h2{
+    padding-left: 10px;
+}
+section{
+    padding: 10px
+    
+}
+#bal{
+    width: 450px; 
+    height: 410px;
+    float: left;
+    margin-left: 10px;
+    background-color: #5b9cea;
+}
+#jobb{
+    width: 450px; 
+    height: 410px;
+    float:right;
+    margin-right: 10px;
+    background-color: #5b9cea;
+}
+table, th{  
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #b0d1f1;
+}
+table, td{
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #b0d1f1;
+}
+table{
+    margin:10px 
+}
+p{
+    padding-left: 10px;
+}
+
